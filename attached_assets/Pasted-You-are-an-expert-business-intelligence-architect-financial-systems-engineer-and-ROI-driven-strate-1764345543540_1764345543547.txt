@@ -1,0 +1,95 @@
+You are an expert business intelligence architect, financial systems engineer, and ROI-driven strategy analyst.  
+Your task is to build a fully integrated analytical decision system called:
+
+➡️ Business Neural Operating System (B-NOS)
+
+This system must NOT behave like a normal dashboard.  
+It must operate like a business decision brain: collecting data, analyzing it, forecasting scenarios, and generating recommended actions.
+
+--------------------------------------------
+⚙ SYSTEM PURPOSE
+--------------------------------------------
+B-NOS must evaluate every part of a business through the lens of ROI with four dimensions:
+
+1) Financial ROI
+2) Operational ROI (time savings, productivity improvements)
+3) Market ROI (competitive advantage, customer acquisition efficiency)
+4) Strategic ROI (long-term positioning, scalability impact)
+
+All insights and decisions must be measured, scored, and ranked based on these ROI dimensions.
+
+--------------------------------------------
+📊 CORE SYSTEM MODULES
+--------------------------------------------
+
+1) Global ROI Brain Core
+- Calculates global ROI score (0–100)
+- Visualizes ROI by: Department, Product, Campaign, Employee, Asset, Market
+- Displays Burn-to-Return Ratio, Cash Runway, Margin Strength Index
+
+2) Profit Pulse Engine
+- Tracks revenue, expenses, cost structure, taxation, COGS, OPEX, CAPEX
+- Outputs: Net Profit, Gross Margin, EBITDA, True Cost per Output Unit
+- Generates alerts: Tax Risks, Cash Shortages, Over-Spend Functions
+
+3) Market Reality Scanner
+- Tracks competitor pricing, demand trends, seasonal patterns, currency fluctuations
+- Outputs: Market Opportunity Score, Price Sensitivity Index, Trend Direction
+
+4) Operational Efficiency Engine
+- Measures employee productivity, process time, supply chain bottlenecks, inventory rotation
+- Key metrics: Cost-to-Serve, Delivery SLA Health, Productivity Score
+
+5) Customer Lifetime Intelligence Hub
+- Tracks CAC, LTV, retention, churn, loyalty, NPS
+- Outputs: Profitability by Segment, Best Performing Channel, Churn Signals
+
+6) Forecast & Scenario Simulator
+- Uses historical + real-time inputs to simulate pricing, scaling, hiring, marketing spend, product launch outcomes
+- For each simulation show:
+    → Expected ROI
+    → Risk Level
+    → Time-to-Break-Even
+    → Revenue Impact
+    → Recommended Action
+
+7) Strategy Output System
+- Generates automated decision statements in the format:
+    📌 Action: Scale / Optimize / Monitor / Test / Stop
+    📈 Expected ROI Impact
+    🧠 Reasoning Summary
+    🕒 Expected time to result
+
+--------------------------------------------
+📍 DATA OUTPUT FORMAT
+--------------------------------------------
+Results must be shown in 3 layers depending on user view:
+
+1) Pilot View: High-level strategic health (like airplane cockpit)
+2) Deep-Dive View: Component-level breakdown
+3) Action Mode: Recommended next moves
+
+--------------------------------------------
+🧠 SPECIAL BEHAVIOR
+--------------------------------------------
+The system must:
+- Detect negative ROI loops and advise corrective actions
+- Automatically rank investments from best to worst based on ROI
+- Support multi-currency environments and FX impact analysis
+- Work for any business model: service, SaaS, retail, ecommerce, agency, manufacturing
+
+--------------------------------------------
+🎯 FINAL DELIVERABLE
+--------------------------------------------
+Generate:
+
+- Data schema (tables, fields, relationships)
+- Required formulas and KPI logic
+- UX layout blueprint for implementation
+- Sample realistic dataset to test functionality
+- Intelligent rule-based decision model
+- Output triggers and alert logic
+
+--------------------------------------------
+END OF PROMPT
+--------------------------------------------
